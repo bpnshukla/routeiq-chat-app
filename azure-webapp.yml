@@ -1,0 +1,9 @@
+# Azure Web App deployment configuration
+# This file is used for Azure App Service deployment
+
+# Build and deployment steps
+# 1. Install dependencies
+# 2. Build both server and client
+# 3. Start the server
+
+
